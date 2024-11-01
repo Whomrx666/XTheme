@@ -1,0 +1,6 @@
+to update XTheme. follow these command:
+
+$ cd ..
+$ rm -rf XTheme
+$ git clone https:/github.com/Whomrx666/XTheme.git
+$ cd XTheme
