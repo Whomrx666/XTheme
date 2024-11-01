@@ -73,7 +73,7 @@ alt="theme_menu">
 </div>
 
 ## Token:
-Di files.txt ya lu buka aja tokenya disitu gua taruhnya!
+In files.txt, just open the token, that's where I put it!
 
 ### Visitors :
 ![Visitor Count](https://profile-counter.glitch.me/Whomrx666/count.svg)
