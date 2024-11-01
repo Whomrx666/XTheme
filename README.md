@@ -1,10 +1,10 @@
 <div style="text-align: center;">
-  <img src="img/logo.jpg" width="700" title="logo" alt="Theme-Me" style="display: inline-block; margin: 0 auto;">
+  <img src="img/logo.jpg" width="700" title="logo" alt="XTheme" style="display: inline-block; margin: 0 auto;">
 </div>
 
 ### • Information
 <a href="#">
-  <img src="https://img.shields.io/badge/Author-Mr.X%20IDz-%23FF0000?style=for-the-badge&logo=github" alt="Build">
+  <img src="https://img.shields.io/badge/Author-Mr.X%20-%23FF0000?style=for-the-badge&logo=github" alt="Build">
 </a><br>
 
 <a href="https://link-ke-halaman-tema">
