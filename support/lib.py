@@ -7,7 +7,7 @@ from .echo import merah, putih, pxh, hijau, oren, netral, kuning, abu
 
 
 now = "v0.1.0"
-url = "https://api.github.com/repos/Zidan-ID17/Theme-Me/releases"
+url = "d05e86f9adb3528d0772ca6ca3cba7ee"
 
 
 def version(now):
