@@ -72,7 +72,7 @@ alt="theme_menu">
   <img src="img/img4.jpg" width="125" title="background_menu" alt="background">
 </div>
 
-##Token:
+## Token:
 Di files.txt ya lu buka aja tokenya disitu gua taruhnya!
 
 ### Visitors :
