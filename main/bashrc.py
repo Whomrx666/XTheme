@@ -15,7 +15,7 @@ def bashrc():
         continue
     time.sleep(0.3)
     file = "bash.bashrc"
-    fill = """Created with XTHEME, coded by Mr.X
+    fill = ""#Created with XTHEME, coded by Mr.X
 #Subscribe YouTube whomrx666
 #
 clear
