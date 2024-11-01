@@ -28,6 +28,8 @@ $ pkg install git
 
 $ pkg install python -y
 
+$ apt install python-pip
+
 $ git clone https://github.com/Whomrx666/XTheme
 
 $ cd XTheme
